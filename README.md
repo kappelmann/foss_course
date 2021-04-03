@@ -24,7 +24,7 @@ the technology empowering it.
 We believe that it is our duty to shed light on the different means of engaging with artefacts created by computer scientists and their
 sociological as well as moral ramifications.
 
-## How to Use ❓
+## How to Use This❓
 
 The template files are provided as markdown files.
 You can transpile them to, for example, HTML using [pandoc](https://pandoc.org/).

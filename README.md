@@ -16,6 +16,14 @@ Moreover, we **highly recommend** to invite guest speakers from industry and aca
 You should evenly schedule them throughout the practical part of the course.
 This way, there's a regular place for students to meet and discuss their experiences.
 
+## Why Teach FOSS 🤔
+
+Here is a [great post](http://teachingopensource.org/for-instructors/why-teach-open-source/) answering that question.
+Besides what is said there, computer scientists have an incredibly strong impact on the development of our society by controlling
+the technology empowering it.
+We believe that it is our duty to shed light on the different means of engaging with artefacts created by computer scientists and their
+sociological as well as moral ramifications.
+
 ## How to Use ❓
 
 The template files are provided as markdown files.

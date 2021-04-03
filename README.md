@@ -1,4 +1,4 @@
-# Free and Open-Source Software Course 
+# Free and Open-Source Software Course 🕊
 
 This repository provides a university course template to teach about Free and Open-Source Software (FOSS).
 The course is broadly structured as follows:
@@ -16,12 +16,12 @@ Moreover, we **highly recommend** to invite guest speakers from industry and aca
 You should evenly schedule them throughout the practical part of the course.
 This way, there's a regular place for students to meet and discuss their experiences.
 
-## How to Use
+## How to Use ❓
 
 The template files are provided as markdown files.
 You can transpile them to, for example, HTML using [pandoc](https://pandoc.org/).
 
-**Note:** At TU Munich, we used [Hakyll](https://jaspervdj.be/hakyll/) to automate this process,
+**Note:** At [TU Munich](https://www21.in.tum.de/teaching/osp/WS20/), we used [Hakyll](https://jaspervdj.be/hakyll/) to automate this process,
 including a custom `navbar-template: templates/navbar.html` property to render the shared navigation bar.
 Simply change/remove this property and use whatever fits your purpose.
 
@@ -30,7 +30,7 @@ You will then have to:
 2. Fill in the TODOs in each file according to your plan
 3. Run the course and contribute back to this repository :)
 
-## Tips for Guest Speakers
+## Tips for Guest Speakers 🗣
 
 The course covers most aspects to practically work with FOSS projects.
 It also covers some theoretical, legal, and moral aspects, but to a way smaller extent.
@@ -41,13 +41,13 @@ Here are some possible questions you can try to address by means of a guest spea
 1. (Philosophy, Politics, Social Sciences) Are we ought to work on FOSS projects?
    What are the moral, historical, and sociological implications of a world run by FOSS or proprietary software?
    Can we employ principles of FOSS outside the world of software development in politics and social sciences?
-  - Invite scientists, philosophers, and politicans to talk about their experiences and judgements
+    - Invite scientists, philosophers, and politicans to talk about their experiences and judgements
 2. (Economics) How to build a profitable business around FOSS projects?
    Are there alternatives to exponential-growth capitalism founded on proprietary software?
-  - Invite successful entrepreneurs whose business is radically based on FOSS projects.
+    - Invite successful entrepreneurs whose business is radically based on FOSS projects.
 3. (Practical Experience) How to motivate an open-source community?
    How to find new maintainers and make them flourish?
-  - Invite maintainers of large FOSS projects to talk about their motivation strategy and insights.
+    - Invite maintainers of large FOSS projects to talk about their motivation strategy and insights.
 
 Ideas to find guest speakers:
 1. [GNU and Free Software Speakers](https://www.gnu.org/people/speakers.en.html)
@@ -56,23 +56,24 @@ Ideas to find guest speakers:
 4. Check the speakers list of FOSS conferences.
 5. Contact authors of books dealing with FOSS.
 
-## Tips for Communication
+## Tips for Communication 🔤
 
 We learnt that students love to share and discuss their knowledge and ideas during the semester.
 We hence **highly recommend** you to make use of some sort of communication platform for your course,
 e.g. [Zulip](https://zulip.com/) or [Mattermost](https://mattermost.com/).
 
-## Known Iterations
+## Known Iterations 👩‍🏫👨‍🏫
 
 Here are some known iterations of this course to get inspired:
 - 10.2020 to 03.2021 at [TU Munich](https://www21.in.tum.de/teaching/osp/WS20/): you can also check out the students' reports on the course website
 
 Gonna run this course as well? Make a pull-request to add your course to this list! :)
 
-## What Our Students Say
+## What Our Students Say 👩‍🎓👨‍🎓
 
 ```quote
-Highly relevant to any computer scientist! Covering theoretical, practical, and moral aspects of software development.
+Highly relevant to any computer scientist!
+Covering theoretical, practical, and moral aspects of software development.
 ```
 ```quote
 The course offers many paths to success and individuality for everyone.
@@ -82,7 +83,12 @@ Students feel valued and actually learn how to work with real world projects.
 Extremely well-organised course. My friends got envious when I told them about it.
 ```
 
-## Acknowledgements
+## Contributing 👥
+
+If you run this course, you surely have ideas to further improve it.
+Please let your ideas flow back into this repository so that everyone in this world can benefit it!
+
+## Acknowledgements 🙌
 
 This course was developed by
 

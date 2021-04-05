@@ -16,6 +16,18 @@ Moreover, we **highly recommend** to invite guest speakers from industry and aca
 You should evenly schedule them throughout the practical part of the course.
 This way, there's a regular place for students to meet and discuss their experiences.
 
+## Completely Online Course
+
+We held this course for the first time in the Winter Semester 2020/21. Because of the CoViD pandemic the course was held online throughout.
+We made the experience that despite all the drawbacks of not meeting in person, there also were advantages.
+
+1. Foremost, it was easy to invite guest speakers from all over the world, as video conference was the standard and no travel times and expenses had to be spent.
+We very much recommend inviting interesting guest speakers to give a remote talk. Students were very enthusiastic in getting first-hand experiences and were very engaged in the discussions. Those talks as well as all our discussions were not recorded.
+2. The course size of 7 students was well-suited for generating a stimulating learning experience. We asked students to have their webcams switched on at all times (also during talks of guest speakers) and used multiple short break-out room sessions to enable interaction between the students. That worked very well and the students seemed motivated and could get to know what challenges their fellow student faced in their projects.
+3. Using virtual meetings speeded up the preliminary/final presentations, as no time was lost setting up different laptops during that session. Also the teachers/guest-speakers/students seemed to blend into one group as it was a wall of faces (of the virtual meeting) instead of one person talking/teaching in front of others listening. It might be harder to establish that feeling in a traditional course room. 
+
+For future editions of this course it might be favourable to use a mixture of online and offline meetings. Certainly for having guest-speakers from other continents the online version is preferred.
+
 ## Why Teach FOSS 🤔
 
 Here is a [great post](http://teachingopensource.org/for-instructors/why-teach-open-source/) answering that question.

@@ -16,18 +16,6 @@ Moreover, we **highly recommend** to invite guest speakers from industry and aca
 You should evenly schedule them throughout the practical part of the course.
 This way, there's a regular place for students to meet and discuss their experiences.
 
-## Completely Online Course
-
-We held this course for the first time in the Winter Semester 2020/21. Because of the CoViD pandemic the course was held online throughout.
-We made the experience that despite all the drawbacks of not meeting in person, there also were advantages.
-
-1. Foremost, it was easy to invite guest speakers from all over the world, as video conference was the standard and no travel times and expenses had to be spent.
-We very much recommend inviting interesting guest speakers to give a remote talk. Students were very enthusiastic in getting first-hand experiences and were very engaged in the discussions. Those talks as well as all our discussions were not recorded.
-2. The course size of 7 students was well-suited for generating a stimulating learning experience. We asked students to have their webcams switched on at all times (also during talks of guest speakers) and used multiple short break-out room sessions to enable interaction between the students. That worked very well and the students seemed motivated and could get to know what challenges their fellow student faced in their projects.
-3. Using virtual meetings speeded up the preliminary/final presentations, as no time was lost setting up different laptops during that session. Also the teachers/guest-speakers/students seemed to blend into one group as it was a wall of faces (of the virtual meeting) instead of one person talking/teaching in front of others listening. It might be harder to establish that feeling in a traditional course room. 
-
-For future editions of this course it might be favourable to use a mixture of online and offline meetings. Certainly for having guest-speakers from other continents the online version is preferred.
-
 ## Why Teach FOSS 🤔
 
 Here is a [great post](http://teachingopensource.org/for-instructors/why-teach-open-source/) answering that question.
@@ -84,10 +72,26 @@ e.g. [Zulip](https://zulip.com/) or [Mattermost](https://mattermost.com/).
 
 ## Known Iterations 👩‍🏫👨‍🏫
 
-Here are some known iterations of this course to get inspired:
-- 10.2020 to 03.2021 at [TU Munich](https://www21.in.tum.de/teaching/osp/WS20/): you can also check out the students' reports on the course website
+Below you can find some known iterations of this course to get inspired.
+Gonna run this course as well? Make a pull-request to add your course to the list! :)
 
-Gonna run this course as well? Make a pull-request to add your course to this list! :)
+### 10.2020 to 03.2021 at [TU Munich](https://www21.in.tum.de/teaching/osp/WS20/)
+
+The course hosted 7 students.
+You can check out the students' reports on the course website
+Because of the COVID-19 pandemic, it was held online.
+Here are some of our insights:
+
+1. It was easy to invite guest speakers from all over the world (no travel time, no travel expenses),
+   and we highly recommend doing so: our students the diversity of our speakers.
+   For future editions of this course, it might be favourable to use a mixture of online and offline meetings.
+   The talks and follow-up discussions were not recorded but one can imagine to do this for future iterations.
+2. The course size of 7 students was well-suited for generating a stimulating learning experience and fruitful discussion.
+   A slightly larger cohort would have worked too. As the course is heavily based on discussions, a great increase in students should, however, lead to multiple, parallel sessions to guarantee a good learning experience.
+3. We used multiple short breakout room sessions to let students talk about their experiences and challenges they are facing as part of the project. This tightened the bonds between all participants and increased knowledge-sharing.
+4. We asked students to have their webcams switched on at all times (also during guest speaker presentations).
+   This not only made for a more social atmosphere but also made guest speakers blend into the group: they were not in the spotlight but just one of many (virtual) faces. Due to that, the atmosphere during presentation seemed very relaxed. It is difficult to establish such an egalitarian atmosphere in a traditional course room where guest speakers are holding their presentation in front of the room.
+5. Virtual meetings sped up the preliminary and final presentations as no time was lost in setting up different laptops during the session.
 
 ## What Our Students Say 👩‍🎓👨‍🎓
 

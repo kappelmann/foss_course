@@ -120,7 +120,7 @@ This course was developed by
 2. [Lukas Stevens](https://github.com/lukasstevens), and
 3. [Maximilian Haslbeck](https://github.com/maxhaslbeck)
 
-at the [Chair for Logic and Verification](www21.in.tum.de) at the [Technical University of Munich](https://www.tum.de/en/).
+at the [Chair for Logic and Verification](https://www21.in.tum.de) at the [Technical University of Munich](https://www.tum.de/en/).
 Special thanks to [Simon Wimmer](https://github.com/wimmers) that supported the initiation of this project.
 
 The course structure was inspired by the [FOSS development course](https://gitlab.cecs.anu.edu.au/comp8440/course) at the Australian National University.

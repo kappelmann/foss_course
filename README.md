@@ -83,7 +83,7 @@ Because of the COVID-19 pandemic, it was held online.
 Here are some of our insights:
 
 1. It was easy to invite guest speakers from all over the world (no travel time, no travel expenses),
-   and we highly recommend doing so: our students the diversity of our speakers.
+   and we highly recommend doing so: our students liked the diversity of our speakers.
    For future editions of this course, it might be favourable to use a mixture of online and offline meetings.
    The talks and follow-up discussions were not recorded but one can imagine to do this for future iterations.
 2. The course size of 7 students was well-suited for generating a stimulating learning experience and fruitful discussion.

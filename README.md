@@ -12,7 +12,7 @@ The course is broadly structured as follows:
    They meet bi-weekly with their supervisors to report on their progress and problems.
 6. Final report: students submit their final report, reflecting on their experiences and hold a brief presentation.
 
-Moreover, we **highly recommend** to invite guest speakers from industry and academia to supplement the course content.
+We **highly recommend** to invite guest speakers from industry and academia to supplement the course content.
 You should evenly schedule them throughout the practical part of the course.
 This way, there's a regular place for students to meet and discuss their experiences.
 
@@ -78,7 +78,7 @@ Gonna run this course as well? Make a pull-request to add your course to the lis
 ### 10.2020 to 03.2021 at [TU Munich](https://www21.in.tum.de/teaching/osp/WS20/)
 
 The course hosted 7 students.
-You can check out the students' reports on the course website
+You can check out the students' reports on the course website.
 Because of the COVID-19 pandemic, it was held online.
 Here are some of our insights:
 
@@ -90,7 +90,7 @@ Here are some of our insights:
    A slightly larger cohort would have worked too. As the course is heavily based on discussions, a great increase in students should, however, lead to multiple, parallel sessions to guarantee a good learning experience.
 3. We used multiple short breakout room sessions to let students talk about their experiences and challenges they are facing as part of the project. This tightened the bonds between all participants and increased knowledge-sharing.
 4. We asked students to have their webcams switched on at all times (also during guest speaker presentations).
-   This not only made for a more social atmosphere but also made guest speakers blend into the group: they were not in the spotlight but just one of many (virtual) faces. Due to that, the atmosphere during presentation seemed very relaxed. It is difficult to establish such an egalitarian atmosphere in a traditional course room where guest speakers are holding their presentation in front of the room.
+   This not only made for a more social atmosphere but also made guest speakers blend into the group: they were not in the spotlight but just one of many (virtual) faces. Due to that, the atmosphere during presentation seemed very relaxed. It is difficult to establish such an egalitarian atmosphere in a traditional course room where guest speakers are holding their presentation in front of the audience.
 5. Virtual meetings sped up the preliminary and final presentations as no time was lost in setting up different laptops during the session.
 
 ## What Our Students Say 👩‍🎓👨‍🎓
